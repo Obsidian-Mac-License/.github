@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/345189/m/obsidian-screenshot.png?v=1663320904" width="824" alt="Screenshot"/>
+<img src="https://obsidian.md/images/screenshot-1.0-hero-combo.png" width="824" alt="Screenshot"/>
 
 </div>
 
